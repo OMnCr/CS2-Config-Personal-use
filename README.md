@@ -1,4 +1,4 @@
-# CS2-Config-Personal-use-
+# CS2-Config-Personal-use
 这是一个为 **Counter-Strike 2** 设计的综合性 `autoexec.cfg` 配置文件，是我为我自己写的。
 
 它的核心理念是**“模式化键位”**：通过小键盘切换不同的功能模块（练习、Bot控制、娱乐、模式选择），从而复用同一组按键（U, I, O, P, H, J...），在不占用过多键位的情况下实现数十种功能。
