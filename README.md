@@ -103,8 +103,7 @@
 
 1. **关于 VAC**：本脚本完全由控制台指令组成，**不包含**任何外部程序注入，因此在受 VAC 保护的服务器（如官匹）中使用是安全的。但请注意，脚本中的 `sv_cheats 1` 相关功能（练习、Bot、轨迹等）只能在你自建的房间或开启了作弊权限的服务器中使用。
 2. **RGB HUD**：开启 RGB HUD 会绑定 `WASD` 键。如果你在关闭该功能时遇到问题，请按 `KP_7` 重置，或者重启游戏。
-3. **加空速**：脚本中包含 `bind mouse_x "+forward;-forward;yaw"`，这用于更快的加空速。如果你不习惯，请在 `autoexec.cfg` 中删除该行。
-4. **默认滚轮跳**：脚本中包含 `bind "MWHEELUP" "+jump"; bind "MWHEELDOWN" "+jump""`，这是滚轮跳。如果你不习惯，请在 `autoexec.cfg` 中删除该行。
+3. **默认滚轮跳**：脚本中包含 `bind "MWHEELUP" "+jump"; bind "MWHEELDOWN" "+jump""`，这是滚轮跳。如果你不习惯，请在 `autoexec.cfg` 中删除该行。
 
 ## 🛠️ 自定义
 
